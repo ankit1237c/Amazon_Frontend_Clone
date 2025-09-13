@@ -36,11 +36,15 @@ CSS3 for styling
 Font Awesome for icons
 
 📂 Project Structure
-.
+
 ├── index.html        # Main HTML file
+
 ├── style.css         # CSS styling file
+
 ├── amazonlogo.png    # Logo image
+
 ├── herosection.jpg   # Hero section background
+
 ├── box1.jpg - box8.jpg # Product category images
 
 📸 Screenshots
